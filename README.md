@@ -1,6 +1,6 @@
 # QileShopB2B2c
 名称：奇乐多店铺商城，企业级免费开源电商系统
-
+官网：http://www.qilecms.com
 
 目标用户：中小型企业及其客户
 
