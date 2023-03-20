@@ -3,6 +3,7 @@
 官网：http://www.qilecms.com
 
 框架：thinkphp8
+
 PHP版本：支持php8.2 以上
 
 
