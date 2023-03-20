@@ -1,4 +1,4 @@
-# QileShopB2B2c
+# QileShopB2B2c  （项目开发中。。。）
 
 名称：奇乐多店铺商城，企业级开源电商系统
 
@@ -33,4 +33,11 @@ PHP版本：支持php8.2 以上
 ![image](https://user-images.githubusercontent.com/13361784/226231304-a04b5fde-4a3e-44a3-9e6c-65fdbcaa7ac6.png)
 
 ![RR0_37BMQ5RS8PJBCYD)N%V](https://user-images.githubusercontent.com/13361784/226293451-91549b17-d09b-4224-a409-f0423ce38342.png)
+
+![A2OO16 H_A6TQU0PCPY~W0C](https://user-images.githubusercontent.com/13361784/226293576-df666a7c-7eed-4220-9e29-fb9aff3bcaa9.png)
+
+![KTM3 TS 0OY864 2AF$G@HD](https://user-images.githubusercontent.com/13361784/226293617-5397feeb-158e-4f0a-8ce1-6a518b456056.png)
+
+![~_GWZS0WXXOYFOOU)L79{Y](https://user-images.githubusercontent.com/13361784/226293646-5c1cd7df-2601-4a95-b617-e150c385f6bb.png)
+
 
