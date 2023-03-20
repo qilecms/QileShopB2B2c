@@ -1,11 +1,10 @@
 # QileShopB2B2c
 名称：奇乐多店铺商城，企业级开源电商系统
 官网：http://www.qilecms.com
-
-框架：thinkphp8
+设计参考: 拼多多和抖音
+框架：Thinkphp8
 
 PHP版本：支持php8.2 以上
-
 
 目标用户：中小型企业及其客户
 
