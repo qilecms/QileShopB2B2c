@@ -31,3 +31,6 @@ PHP版本：支持php8.2 以上
 
 后台：
 ![image](https://user-images.githubusercontent.com/13361784/226231304-a04b5fde-4a3e-44a3-9e6c-65fdbcaa7ac6.png)
+
+![RR0_37BMQ5RS8PJBCYD)N%V](https://user-images.githubusercontent.com/13361784/226293451-91549b17-d09b-4224-a409-f0423ce38342.png)
+
